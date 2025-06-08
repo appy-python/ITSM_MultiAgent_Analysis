@@ -18,9 +18,11 @@ dependencies = [
     "pyarrow",
     "langgraph",
     "langchain",
-    "langchain",
     "pydantic",
-    "flask"
+    "flask",
+    "langchain-community",
+    "langchain-core",
+    "flask-cors"
 ]
 
 [build-system]

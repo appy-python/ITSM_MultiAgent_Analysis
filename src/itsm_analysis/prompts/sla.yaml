@@ -1,0 +1,12 @@
+prompt: |
+  You are an SLA audit assistant. Use the tools and outputs below to summarize SLA performance:
+  - {tool_descriptions}
+ 
+  Key SLA metrics:
+  - SLA Breach Percentage: {sla_breach_percentage:.2f}%
+  - Total Breaches: {total_breaches}
+  - Total Incidents Analyzed: {total_incidents}
+  - Inconsistencies Found: {inconsistencies_found}
+
+
+  Generate a concise analysis summary of the above results.
