@@ -1,0 +1,33 @@
+
+K
++
+incident_id"Incident_IDJitsm_analysis
+Â¡¢ÁÀçÇÂÂ¡¢ÁÀçÇÂ
+D
+$
+__dummy"
+__dummy_idJitsm_analysis
+Â¡¢ÁÀçÇÂÂ¡¢ÁÀçÇÂ1"$c0670d01-7878-47d3-ac23-ba9da7481c8b*Â¡¢ÁÀçÇÂ2›
+ú
+itsm_featuresitsm_analysisincident_id"
+Handle_Time_hrs"
+CI_Name_enc"
+
+CI_Cat_enc"
+CI_Subcat_enc"
+Closure_Code_enc"
+Priority_enc"
+
+Impact_enc"
+Urgency_enc"
+Resolution_SLA_Breach"
+
+Has_KB2€ÎÚ:z	Open_TimeZdata/itsm_cleaned.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/itsm_cleaned.parquet@b
+Incident_ID
+Â¡¢ÁÀçÇÂÂ¡¢ÁÀçÇÂR­
+ª
+,feast.infra.online_stores.sqlite.SqliteTable"z
+[C:\Users\GENAI\ITSM_MultiAgent_Analysis\src\itsm_analysis\feature_repo\data\online_store.dbitsm_analysis_itsm_featuresbŠ	Open_TimeZdata/itsm_cleaned.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/itsm_cleaned.parquetªitsm_analysisŠ/
+
+itsm_analysis
+Â¡¢Á ¿˜©Â¡¢Á ¿˜©

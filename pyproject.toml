@@ -1,0 +1,31 @@
+[project]
+name = "itsm-multiagent-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Priyadarshi Das", email = "appy28@outlook.com" }
+]
+dependencies = [
+    "python-dotenv",
+    "pandas",
+    "numpy",
+    "hatchling",
+    "pymongo[srv]",
+    "scikit-learn",
+    "feast",
+    "pyarrow",
+    "langgraph",
+    "langchain",
+    "langchain",
+    "pydantic",
+    "flask"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/itsm_analysis"]
